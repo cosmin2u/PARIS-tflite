@@ -1,0 +1,11 @@
+defense
+eiffel
+invalides
+louvre
+moulinrouge
+museedorsay
+notredame
+pantheon
+pompidou
+sacrecoeur
+triomphe
